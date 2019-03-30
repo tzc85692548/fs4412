@@ -3,5 +3,8 @@
 int main(int argc, const char *argv[])
 {
 	printf("hello github!\n");
+	printf("hello github!\n");
+	printf("hello github!\n");
+	printf("hello github!\n");
 	return 0;
 }
